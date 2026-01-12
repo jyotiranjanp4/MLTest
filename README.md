@@ -57,6 +57,7 @@ We implemented **six machine learning models** on the same dataset. For each mod
 | Random Forest       | 0.0000   | 0.0000 | 0.0000    | 0.0000 | 0.0000 | 0.0000 |
 | XGBoost             | 0.0000   | 0.0000 | 0.0000    | 0.0000 | 0.0000 | 0.0000 |
 
+> ⚠️ Note: Replace the `0.0000` placeholders with actual results obtained after running the Streamlit app.
 
 ---
 
@@ -71,6 +72,7 @@ We implemented **six machine learning models** on the same dataset. For each mod
 | Random Forest       | Ensemble model that reduces overfitting and improves generalization; typically provides strong performance. |
 | XGBoost             | Gradient boosting ensemble; usually achieves the highest accuracy and AUC by handling complex feature interactions. |
 
+> ⚠️ Replace/adjust observations based on **actual results from your trained models**.
 
 ---
 
