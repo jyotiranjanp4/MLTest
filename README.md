@@ -50,15 +50,15 @@ We implemented **six machine learning models** on the same dataset. For each mod
 - Matthews Correlation Coefficient (MCC)
 
 ### Comparison Table of Evaluation Metrics
-
-| ML Model Name        | Accuracy | AUC  | Precision | Recall | F1   | MCC  |
-|--------------------|----------|------|-----------|--------|------|------|
-| Logistic Regression | 0.0000   | 0.0000 | 0.0000    | 0.0000 | 0.0000 | 0.0000 |
-| Decision Tree       | 0.0000   | 0.0000 | 0.0000    | 0.0000 | 0.0000 | 0.0000 |
-| kNN                 | 0.0000   | 0.0000 | 0.0000    | 0.0000 | 0.0000 | 0.0000 |
-| Naive Bayes         | 0.0000   | 0.0000 | 0.0000    | 0.0000 | 0.0000 | 0.0000 |
-| Random Forest       | 0.0000   | 0.0000 | 0.0000    | 0.0000 | 0.0000 | 0.0000 |
-| XGBoost             | 0.0000   | 0.0000 | 0.0000    | 0.0000 | 0.0000 | 0.0000 |
+| ML Model Name | Accuracy | AUC | Precision | Recall | F1 Score | MCC |
+|--------------|----------|-----|-----------|--------|----------|-----|
+| Logistic Regression | 0.0120 | 0.6527 | 0.0029 | 0.0120 | 0.0033 | 0.0086 |
+| Decision Tree | 0.0018 | 0.4998 | 0.0017 | 0.0018 | 0.0017 | 0.0002 |
+| K-Nearest Neighbor (kNN) | 0.0020 | 0.5000 | 0.0005 | 0.0020 | 0.0008 | 0.0003 |
+| Naive Bayes (Gaussian) | 0.0013 | 0.5353 | 0.0000 | 0.0013 | 0.0001 | 0.0005 |
+| Naive Bayes (Multinomial) | 0.0053 | 0.5402 | 0.0051 | 0.0053 | 0.0034 | 0.0038 |
+| Random Forest (Ensemble) | 0.0047 | 0.5171 | 0.0034 | 0.0047 | 0.0038 | 0.0029 |
+| XGBoost (Ensemble) | 0.0055 | 0.6135 | 0.0049 | 0.0055 | 0.0043 | 0.0034 |
 
 ---
 
