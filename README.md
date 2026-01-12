@@ -1,5 +1,8 @@
 # Exam Score Prediction Dashboard
 
+**Name: ** Jyotiranjan Pattanaik
+**BITS ID: ** 2024DC04018
+
 ## a. Problem Statement
 
 The objective of this project is to predict whether a student will **pass or fail** an exam based on their study habits, attendance, and other related features. This is framed as a **binary classification problem** where:
