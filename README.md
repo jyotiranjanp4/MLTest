@@ -1,7 +1,7 @@
 # Exam Score Prediction Dashboard
 
-**Name: ** Jyotiranjan Pattanaik
-**BITS ID: ** 2024DC04018
+## Name: Jyotiranjan Pattanaik
+## BITS ID: 2024DC04018
 
 ## a. Problem Statement
 
